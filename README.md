@@ -20,3 +20,9 @@ $ git commit -am "Init"
 ```
 
 ##### Hope you have fun with your component job, Happy Coding. :)
+
+---
+
+### References:
+* [rinse-react](https://github.com/cwlsn/rinse-react)
+* [how-to-write-your-own-reusable-react-component-library](https://itnext.io/how-to-write-your-own-reusable-react-component-library-a57dc7c9a210)
