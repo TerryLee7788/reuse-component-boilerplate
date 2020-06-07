@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "",
   "main": "dist/index.js",
+  "homepage": "https://github.com/TerryLee7788/reuse-component-boilerplate",
   "scripts": {
     "build": "webpack --mode production"
   },
@@ -10,7 +11,10 @@
     "dist"
   ],
   "keywords": [],
-  "author": "",
+  "bugs": {
+    "url": "https://github.com/TerryLee7788/reuse-component-boilerplate/issues"
+  },
+  "author": "terrylee7788",
   "license": "ISC",
   "devDependencies": {
     "@babel/core": "^7.10.2",
